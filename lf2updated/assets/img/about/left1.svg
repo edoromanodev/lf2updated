@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg height="638.601" viewBox="0 0 494.836 638.601" width="494.836" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="247.418" y1="0" x2="247.418" y2="638.6" id="gradient-0" gradientTransform="matrix(0.999989, -0.004522, 0.003889, 0.859975, -2.481341, 90.538594)">
+      <stop offset="0" style="stop-color: rgb(23, 24, 49);"/>
+      <stop offset="1" style="stop-color: rgba(0, 0, 0, 1)"/>
+    </linearGradient>
+  </defs>
+  <clipPath id="a">
+    <path d="m319.3 0c176.345 0-67.066 208.923 88.593 319.3s87.752 319.3-88.593 319.3-319.3-142.955-319.3-319.3 142.956-319.3 319.3-319.3z" transform="translate(297.858 1341)"/>
+  </clipPath>
+  <path d="m319.3 0c176.345 0-67.066 208.923 88.593 319.3s87.752 319.3-88.593 319.3-319.3-142.955-319.3-319.3 142.956-319.3 319.3-319.3z" style="fill: rgb(100, 101, 174);"/>
+  <g clip-path="url(#a)" transform="translate(-297.858 -1341)">
+    <path d="m319.3 0c176.345 0-67.066 208.923 88.593 319.3s87.752 319.3-88.593 319.3-319.3-142.955-319.3-319.3 142.956-319.3 319.3-319.3z" opacity=".3" transform="matrix(-1 0 0 -1 792.694 1979.601)" style="fill: url(#gradient-0);"/>
+  </g>
+</svg>
